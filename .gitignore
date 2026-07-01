@@ -1,0 +1,22 @@
+# Quartus Generated Files
+db/
+incremental_db/
+output_files/
+
+# ModelSim Generated Files
+work/
+transcript
+vsim.wlf
+*.mti
+*.mpf
+
+# Backup Files
+*.bak
+
+# Temporary Files
+*.log
+*.tmp
+
+# Operating System Files
+.DS_Store
+Thumbs.db
